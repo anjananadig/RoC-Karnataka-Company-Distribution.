@@ -81,7 +81,7 @@ The Power BI dashboard provides:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview](Dashboard_overview/Screenshot 2026-03-01 205923.jpg)
+<img src="PPT and Screenshots/screenshots /Screenshot 2025-09-11 124503.png" alt="Screenshot Description" width="1000" height="600"/>
 
 
 ## 📂 Project Structure
